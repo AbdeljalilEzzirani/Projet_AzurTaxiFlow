@@ -1,0 +1,9 @@
+{
+	"name": "zzzdatafactory",
+	"location": "italynorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "886e2eee-ffa6-47b8-b8c6-b444b97915f7",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
